@@ -1,4 +1,5 @@
 # auto-agenda
+#### This program will prioritize tasks by dates and an estimate of time that it would take to complete that task based on user input. It will weight due date higher than the time estimate.
   ### Features 
    - Stores tasks
    - Proritzes task for you
